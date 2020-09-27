@@ -1,5 +1,5 @@
 body {
-    background: rgb(131, 78, 131);
+    background: rgb(93, 156, 216);
     font: normal 15pt arial;
 }
 
@@ -17,6 +17,14 @@ section {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 363);
     align-items: center;
 
+}
+
+#foto {
+    border-radius: 50%;
+    border: 1px solid rgb(0, 0, 0);
+    width: 200px;
+    height: 200px;
+    display: block;
 }
 
 footer {
